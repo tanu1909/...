@@ -8,9 +8,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/tanu1909/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/tanu1909/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/tanu1909/DSA/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/tanu1909/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/tanu1909/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/tanu1909/DSA/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->

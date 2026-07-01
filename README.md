@@ -19,6 +19,7 @@ https://leetcode.com/problem-list/dvb35u92/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0343-integer-break](https://github.com/tanu1909/DSA/tree/master/0343-integer-break) |
 | [0879-profitable-schemes](https://github.com/tanu1909/DSA/tree/master/0879-profitable-schemes) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tanu1909/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0956-tallest-billboard](https://github.com/tanu1909/DSA/tree/master/0956-tallest-billboard) |
@@ -35,4 +36,8 @@ https://leetcode.com/problem-list/dvb35u92/
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/tanu1909/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Math
+|  |
+| ------- |
+| [0343-integer-break](https://github.com/tanu1909/DSA/tree/master/0343-integer-break) |
 <!---LeetCode Topics End-->
